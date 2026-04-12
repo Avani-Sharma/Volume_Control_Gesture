@@ -49,6 +49,13 @@ streamlit run app.py
 
 ---
 
+## 👀 Preview
+> Script mode preview
+
+![Gesture Volume Control](gesture.gif)
+
+---
+
 <div align="center">
   Made with ❤️ using Python, OpenCV, MediaPipe and Streamlit
 </div>
